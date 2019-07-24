@@ -1,4 +1,4 @@
-## R Programming-Assignments-2019
+## R Programming 2019
 Dedicated repo for R Programming Assignments and related Documentation
 
 Background Peer graded Assignment Getting and Cleaning Data Course Project Oct-2016
