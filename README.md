@@ -1,5 +1,5 @@
-## R Programming 2019
-Dedicated repo for R Programming Assignments and related Documentation
+# Johns Hopkins University
+## R Programming 
 
 Background Peer graded Assignment Getting and Cleaning Data Course Project Oct-2016
 ##Getting and Cleaning Data - peer assessment project
